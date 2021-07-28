@@ -1,2 +1,5 @@
-Hola bienvenido al repositorio 3
-Aquí se trabajará la bitácora del proyecto README
+INSTITUTO SUPERIOR TECNOLÓGICO "NELSON TORRES"
+
+JESSICA PAOLA CATUCUAMBA LECHÓN
+
+Esta es la versión estable del proyecto
